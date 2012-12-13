@@ -3,6 +3,7 @@ mycbf.py
 --------
 An augmented version of the pycbf.cbf_handle_struct
 """
+
 __author__ = "Frank Murphy"
 __copyright__ = "Copyright 2012 NE-CAT"
 __license__ = "BSD"
